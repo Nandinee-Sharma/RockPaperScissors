@@ -1,2 +1,2 @@
 # RockPaperScissors
-This is a famous RockPaperScissors game.
+This is the famous RockPaperScissors game.
